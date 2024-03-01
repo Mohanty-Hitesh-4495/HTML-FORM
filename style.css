@@ -54,6 +54,12 @@ button{
         width: 35%;
     }
 }
+@media screen and (max-width:600)and (min-width:500) {
+    form{
+        width: 45%
+    }
+    
+}
 @media screen and (max-width:474px)and (min-width:320px){
     form{
         width: 55%;
